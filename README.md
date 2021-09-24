@@ -1,0 +1,2 @@
+# LocalisedRankOrderedDifferencesVectorFilterForSuppression-of-highDensityImpulseNoiseInColorImages
+ 
